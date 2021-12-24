@@ -1,0 +1,108 @@
+
+@font-face {
+  font-family: "jua";
+  src: url("../font/BMJUA_otf.otf");
+}
+header{
+  position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.logo{
+  margin-top: 10px;
+  margin-left: 300px; 
+  
+}
+
+
+.menu{
+  font-family: "jua";
+  background-color: white;
+  display: flex;
+  float: right;
+  margin: 18px;
+  
+  
+  
+}
+
+li{
+  padding:0 10px; 
+  list-style: none;
+  float: right;
+  display: inline;
+  color: #56658E
+  
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+.mainimg{
+  display:block; 
+    margin:auto;
+}
+
+.one{
+  font-size: 28px;
+  font-family: "jua";
+  margin:80px;
+  color: #888888;
+  line-height: 100%
+}
+
+.two{
+  font-size: 22px;
+  font-family: "jua";
+  margin:120px;
+  color: #6C88BE;
+  line-height: 150%
+  
+}
+
+.grp{
+  display:block; 
+    margin:auto;
+    padding: 50px;
+}
+
+p{
+  font-family: "jua";
+  color: #888888;
+  letter-spacing: 1px;
+  line-height: 150%
+  
+ 
+}
+
+span{
+  font-family: "jua";
+}
+
+.three{
+  font-size: 25px;
+  font-style: normal;
+  font-family: "jua";
+  margin:100px;
+  color: #888888;
+  line-height: 150%
+  
+
+}
+
+
+
+.four{
+  font-size: 28px;
+  font-family: "jua";
+  margin:90px;
+  color: #888888;
+  line-height: 150%;
+  padding: 70px;
+  
+
+}
